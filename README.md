@@ -50,3 +50,5 @@ This section of the project implements a self-supervised learning approach using
 - A linear classifier is constructed using the features extracted from the convolutional layers. This classifier is trained and evaluated to predict food categories, utilizing a similar training and validation framework.
 
 
+## For additional information about the project the paper is available 
+
